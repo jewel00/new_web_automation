@@ -1,0 +1,1475 @@
+2020-06-28 16:58:20,455-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 16:58:29,235-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 16:59:35,661-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 16:59:43,564-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:01:49,645-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:01:57,455-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:03:54,032-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:04:00,059-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\sreenshots正常登录模块_2020-06-28_17_03_59.png
+2020-06-28 17:04:02,519-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:05:57,172-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:06:03,104-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\sreenshots\正常登录模块_2020-06-28_170602.png
+2020-06-28 17:06:05,532-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:09:23,984-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:09:30,399-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\sreenshots正常登录模块_2020-06-28_170929.png
+2020-06-28 17:09:32,853-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:09:59,181-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:10:04,772-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\sreenshots\正常登录模块_2020-06-28_171004.png
+2020-06-28 17:10:07,172-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:11:02,598-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:11:10,472-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:12:57,883-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:13:05,894-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:15:53,851-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:16:03,396-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:17:59,914-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:18:06,275-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\sreenshots\SH_正常登录模块_2020-06-28_171805.png
+2020-06-28 17:18:08,688-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:19:10,374-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:19:16,098-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\reenshots正常登录模块_2020-06-28_171915.png
+2020-06-28 17:19:19,626-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:20:03,160-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:20:08,957-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\screenshots正常登录模块_2020-06-28_172008.png
+2020-06-28 17:20:11,418-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:20:26,651-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:20:33,982-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\screenshots_正常登录模块_2020-06-28_172033.png
+2020-06-28 17:20:36,509-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:24:09,640-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:24:15,606-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\screenshots_2020-06-28_172414.png
+2020-06-28 17:24:18,013-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:42:38,783-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:42:46,101-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 17:42:46,197-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0S
+2020-06-28 17:42:46,199-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 17:42:46,458-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 17:42:46,662-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 17:42:46,690-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 17:42:50,266-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 17:44:15,847-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 17:44:21,444-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 17:44:21,451-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 17:44:21
+2020-06-28 17:44:23,540-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 17:44:23
+2020-06-28 17:44:23,541-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:2秒
+2020-06-28 17:44:23,541-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 17:44:23,818-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 17:44:24,051-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 17:44:24,086-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 17:44:26,809-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:22:18,120-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:22:23,847-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:22:23,860-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:22:23
+2020-06-28 21:22:23,972-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:22:23
+2020-06-28 21:22:23,974-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:22:23,975-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:22:24,326-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:22:24,535-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:22:24,556-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:22:24,728-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:22:24,729-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:22:24
+2020-06-28 21:22:24,776-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:22:24
+2020-06-28 21:22:24,777-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:22:24,778-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:22:24,847-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:22:25,027-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:22:25,040-INFO-get_my_log.py-WEB自动化-日志信息：异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:22:25,125-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:22:25,126-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:22:25
+2020-06-28 21:22:36,230-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\screenshots_2020-06-28_212235.png
+2020-06-28 21:22:36,329-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:22:36,330-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:22:36
+2020-06-28 21:22:36,383-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:22:36
+2020-06-28 21:22:36,386-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:22:36,387-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:22:36,597-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:22:36,716-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:22:36,739-INFO-get_my_log.py-WEB自动化-日志信息：异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:22:36,845-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:22:36,846-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:22:36
+2020-06-28 21:22:47,622-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\screenshots_2020-06-28_212247.png
+2020-06-28 21:22:47,637-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:22:47,638-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:22:47
+2020-06-28 21:22:47,667-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:22:47
+2020-06-28 21:22:47,668-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:22:47,668-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:22:47,821-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:22:47,957-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:22:47,969-INFO-get_my_log.py-WEB自动化-日志信息：异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:22:48,038-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:22:48,040-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:22:48
+2020-06-28 21:22:58,848-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\screenshots_2020-06-28_212258.png
+2020-06-28 21:22:58,872-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:22:58,873-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:22:58
+2020-06-28 21:22:58,895-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:22:58
+2020-06-28 21:22:58,896-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:22:58,896-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:22:59,063-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:22:59,226-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:22:59,256-INFO-get_my_log.py-WEB自动化-日志信息：异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:22:59,440-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:22:59,441-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:22:59
+2020-06-28 21:23:10,369-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\screenshots_2020-06-28_212309.png
+2020-06-28 21:23:10,427-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:23:10,428-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:23:10
+2020-06-28 21:23:10,457-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:23:10
+2020-06-28 21:23:10,458-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:23:10,459-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:23:10,611-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:23:10,761-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:23:10,779-INFO-get_my_log.py-WEB自动化-日志信息：异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:23:10,845-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:23:10,846-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:23:10
+2020-06-28 21:23:11,395-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:23:11
+2020-06-28 21:23:11,396-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 21:23:11,396-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:23:13,603-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:25:22,378-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:25:28,025-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:25:28,033-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:25:28
+2020-06-28 21:25:28,111-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:25:28
+2020-06-28 21:25:28,112-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:25:28,113-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:25:28,354-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:25:28,557-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:25:28,580-INFO-get_my_log.py-WEB自动化-日志信息：异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:25:28,806-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:25:28,807-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:25:28
+2020-06-28 21:25:29,394-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:25:29
+2020-06-28 21:25:29,395-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 21:25:29,396-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:25:29,438-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:25:29,439-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:25:29
+2020-06-28 21:25:29,466-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:25:29
+2020-06-28 21:25:29,467-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:25:29,467-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:25:29,652-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:25:29,780-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:25:29,795-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:25:32,758-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:31:20,572-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:31:26,007-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:31:26,014-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:31:26
+2020-06-28 21:31:26,096-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:31:26
+2020-06-28 21:31:26,097-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:31:26,098-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:31:26,318-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:31:26,495-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:31:26,515-INFO-get_my_log.py-WEB自动化-日志信息：异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:31:26,678-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:31:26,678-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:31:26
+2020-06-28 21:31:27,225-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:31:27
+2020-06-28 21:31:27,226-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 21:31:27,226-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:31:27,256-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:31:27,257-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:31:27
+2020-06-28 21:31:27,279-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:31:27
+2020-06-28 21:31:27,279-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:31:27,280-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:31:27,426-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:31:27,539-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:31:27,550-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:31:30,953-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:32:59,292-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:33:04,423-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:33:04,431-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:33:04
+2020-06-28 21:33:04,540-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:33:04
+2020-06-28 21:33:04,542-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:33:04,542-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:33:04,811-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:33:05,030-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:33:05,052-INFO-get_my_log.py-WEB自动化-日志信息：异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:33:05,179-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:33:05,180-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:33:05
+2020-06-28 21:33:05,736-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:33:05
+2020-06-28 21:33:05,736-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:33:05,737-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:33:05,768-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:33:05,769-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:33:05
+2020-06-28 21:33:05,791-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:33:05
+2020-06-28 21:33:05,791-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:33:05,792-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:33:05,982-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:33:06,172-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:33:06,187-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:33:09,843-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:35:05,789-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:35:10,932-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:35:10,943-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:35:10
+2020-06-28 21:35:11,049-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:35:11
+2020-06-28 21:35:11,050-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 21:35:11,051-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:35:11,364-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:35:11,598-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:35:11,629-INFO-get_my_log.py-WEB自动化-日志信息：异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:35:11,767-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:35:11,768-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:35:11
+2020-06-28 21:35:12,327-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:35:12
+2020-06-28 21:35:12,328-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 21:35:12,329-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:35:12,903-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:35:12,904-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:35:12
+2020-06-28 21:35:12,939-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:35:12
+2020-06-28 21:35:12,939-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:35:12,940-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:35:13,175-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:35:13,345-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:35:13,361-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:35:17,454-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:35:36,489-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:35:44,009-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:35:44,015-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:35:44
+2020-06-28 21:35:44,097-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:35:44
+2020-06-28 21:35:44,098-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:35:44,099-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:35:44,362-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:35:44,556-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:35:44,578-INFO-get_my_log.py-WEB自动化-日志信息：异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:35:44,754-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:35:44,755-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:35:44
+2020-06-28 21:35:45,313-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:35:45
+2020-06-28 21:35:45,313-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 21:35:45,314-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:35:45,930-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:35:45,932-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:35:45
+2020-06-28 21:35:45,962-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:35:45
+2020-06-28 21:35:45,962-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:35:45,963-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:35:46,173-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:35:46,341-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:35:46,357-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:35:49,257-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:37:38,918-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:37:44,469-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:37:44,481-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:37:44
+2020-06-28 21:37:44,545-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:37:44
+2020-06-28 21:37:44,545-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:37:44,546-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:37:44,656-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:37:44,854-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:37:44,874-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:37:45,027-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:37:45,028-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:37:45
+2020-06-28 21:37:45,069-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:37:45
+2020-06-28 21:37:45,070-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:37:45,072-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:37:45,635-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:37:45,636-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:37:45
+2020-06-28 21:37:45,661-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:37:45
+2020-06-28 21:37:45,661-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:37:45,662-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:37:45,897-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:37:46,023-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:37:46,048-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:37:46,159-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:37:46,160-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:37:46
+2020-06-28 21:37:46,210-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:37:46
+2020-06-28 21:37:46,211-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:37:46,212-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:37:46,831-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:37:46,833-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:37:46
+2020-06-28 21:37:46,868-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:37:46
+2020-06-28 21:37:46,869-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:37:46,870-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:37:47,080-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:37:47,265-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:37:47,282-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:37:47,407-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:37:47,408-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:37:47
+2020-06-28 21:37:47,450-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:37:47
+2020-06-28 21:37:47,453-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:37:47,454-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:37:48,094-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:37:48,095-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:37:48
+2020-06-28 21:37:48,125-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:37:48
+2020-06-28 21:37:48,126-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:37:48,126-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:37:48,343-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:37:48,502-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:37:48,513-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:37:48,634-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:37:48,635-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:37:48
+2020-06-28 21:37:48,664-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:37:48
+2020-06-28 21:37:48,666-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:37:48,667-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:37:52,543-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:38:11,568-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:38:18,713-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:38:18,719-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:38:18
+2020-06-28 21:38:18,794-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:38:18
+2020-06-28 21:38:18,795-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:38:18,796-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:38:19,103-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:38:19,344-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:38:19,366-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:38:19,493-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:38:19,495-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:38:19
+2020-06-28 21:38:20,143-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:38:20
+2020-06-28 21:38:20,144-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 21:38:20,145-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:38:23,105-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:38:31,193-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:38:36,780-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:38:36,788-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:38:36
+2020-06-28 21:38:36,846-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:38:36
+2020-06-28 21:38:36,847-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:38:36,848-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:38:37,131-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:38:37,343-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:38:37,379-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:38:37,524-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:38:37,526-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:38:37
+2020-06-28 21:38:38,080-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:38:38
+2020-06-28 21:38:38,081-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 21:38:38,082-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:38:42,001-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:41:07,284-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:41:12,538-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:41:12,554-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:41:12
+2020-06-28 21:41:12,640-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:41:12
+2020-06-28 21:41:12,640-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:41:12,641-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:41:12,762-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:41:12,961-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:41:12,982-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:41:13,144-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:41:13,144-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:41:13
+2020-06-28 21:41:13,190-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:41:13
+2020-06-28 21:41:13,191-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:41:13,192-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:41:13,227-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:41:13,228-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:41:13
+2020-06-28 21:41:13,260-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:41:13
+2020-06-28 21:41:13,261-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:41:13,262-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:41:13,383-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:41:13,458-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:41:13,471-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:41:13,544-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:41:13,545-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:41:13
+2020-06-28 21:41:24,557-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\screenshots_2020-06-28_214123.png
+2020-06-28 21:41:24,693-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:41:24,694-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:41:24
+2020-06-28 21:41:24,775-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:41:24
+2020-06-28 21:41:24,777-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:41:24,778-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:41:25,815-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:41:26,701-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:41:26,724-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:41:31,804-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:41:31,805-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:41:31
+2020-06-28 21:41:42,963-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\screenshots_2020-06-28_214142.png
+2020-06-28 21:41:42,984-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:41:42,985-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:41:42
+2020-06-28 21:41:43,019-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:41:43
+2020-06-28 21:41:43,020-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 21:41:43,021-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:41:43,222-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:41:43,377-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:41:43,390-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:41:43,464-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:41:43,466-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:41:43
+2020-06-28 21:41:54,320-INFO-get_my_log.py-WEB自动化-日志信息：截取网页成功。文件路径名称为：D:\Web_automation\Outputs\screenshots_2020-06-28_214153.png
+2020-06-28 21:41:54,336-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:41:54,337-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:41:54
+2020-06-28 21:41:54,359-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:41:54
+2020-06-28 21:41:54,360-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:41:54,360-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:41:54,508-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:41:54,677-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:41:54,691-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:41:54,759-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:41:54,760-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:41:54
+2020-06-28 21:41:55,319-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:41:55
+2020-06-28 21:41:55,320-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 21:41:55,321-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:41:55,352-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:41:55,353-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:41:55
+2020-06-28 21:41:55,376-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:41:55
+2020-06-28 21:41:55,377-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:41:55,377-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:41:55,527-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:41:55,655-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:41:55,664-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:42:02,999-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:43:07,405-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:43:12,675-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:43:12,682-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:43:12
+2020-06-28 21:43:12,782-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:43:12
+2020-06-28 21:43:12,785-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:43:12,790-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:43:12,923-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:43:13,116-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:13,144-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:13,307-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:43:13,309-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:43:13
+2020-06-28 21:43:13,369-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:43:13
+2020-06-28 21:43:13,371-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:43:13,371-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:43:13,926-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:43:13,927-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:43:13
+2020-06-28 21:43:13,969-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:43:13
+2020-06-28 21:43:13,970-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:43:13,971-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:43:14,154-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:43:14,264-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:14,277-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:14,405-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:43:14,407-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:43:14
+2020-06-28 21:43:14,450-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:43:14
+2020-06-28 21:43:14,451-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:43:14,452-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:43:14,957-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:43:14,958-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:43:14
+2020-06-28 21:43:14,987-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:43:14
+2020-06-28 21:43:14,987-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:43:14,988-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:43:15,158-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:43:15,377-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:15,399-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:15,512-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:43:15,513-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:43:15
+2020-06-28 21:43:15,562-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:43:15
+2020-06-28 21:43:15,563-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:43:15,564-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:43:16,125-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:43:16,126-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:43:16
+2020-06-28 21:43:16,164-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:43:16
+2020-06-28 21:43:16,165-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:43:16,166-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:43:16,416-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:43:16,609-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:16,632-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:16,803-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:43:16,804-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:43:16
+2020-06-28 21:43:16,843-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:43:16
+2020-06-28 21:43:16,844-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:43:16,845-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:43:17,532-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:43:17,533-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:43:17
+2020-06-28 21:43:17,575-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:43:17
+2020-06-28 21:43:17,576-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:43:17,577-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:43:17,828-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:43:18,048-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:18,074-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:18,241-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:43:18,242-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:43:18
+2020-06-28 21:43:18,863-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:43:18
+2020-06-28 21:43:18,864-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:43:18,865-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:43:19,394-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:43:19,395-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:43:19
+2020-06-28 21:43:19,432-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:43:19
+2020-06-28 21:43:19,435-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:43:19,437-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:43:19,642-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:43:19,805-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:19,821-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:43:23,143-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:44:36,425-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:44:42,675-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:44:42,681-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:44:42
+2020-06-28 21:44:42,766-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:44:42
+2020-06-28 21:44:42,769-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:44:42,770-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:44:42,851-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:44:43,032-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:43,056-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:43,187-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:44:43,190-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:44:43
+2020-06-28 21:44:43,242-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:44:43
+2020-06-28 21:44:43,244-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:44:43,245-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:44:43,808-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:44:43,809-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:44:43
+2020-06-28 21:44:43,863-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:44:43
+2020-06-28 21:44:43,864-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:44:43,864-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:44:44,014-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:44:44,159-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:44,174-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:44,279-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:44:44,280-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:44:44
+2020-06-28 21:44:44,346-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:44:44
+2020-06-28 21:44:44,347-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:44:44,349-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:44:44,898-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:44:44,900-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:44:44
+2020-06-28 21:44:44,928-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:44:44
+2020-06-28 21:44:44,929-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:44:44,929-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:44:45,082-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:44:45,222-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:45,234-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:45,375-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:44:45,377-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:44:45
+2020-06-28 21:44:45,410-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:44:45
+2020-06-28 21:44:45,411-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:44:45,411-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:44:46,055-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:44:46,056-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:44:46
+2020-06-28 21:44:46,085-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:44:46
+2020-06-28 21:44:46,085-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:44:46,086-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:44:46,226-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:44:46,375-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:46,389-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:46,507-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:44:46,509-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:44:46
+2020-06-28 21:44:46,543-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:44:46
+2020-06-28 21:44:46,543-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:44:46,544-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:44:46,930-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:44:46,931-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:44:46
+2020-06-28 21:44:46,960-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:44:46
+2020-06-28 21:44:46,961-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:44:46,962-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:44:47,110-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:44:47,269-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:47,280-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:47,422-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:44:47,423-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:44:47
+2020-06-28 21:44:47,994-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:44:47
+2020-06-28 21:44:47,995-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:44:47,996-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:44:48,596-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:44:48,598-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:44:48
+2020-06-28 21:44:48,635-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:44:48
+2020-06-28 21:44:48,638-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:44:48,640-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:44:48,908-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:44:49,164-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:49,182-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:44:53,416-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:47:18,280-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:47:23,437-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:47:23,456-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:47:23
+2020-06-28 21:47:23,600-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:47:23
+2020-06-28 21:47:23,601-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:47:23,605-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:47:23,686-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:47:23,863-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:23,880-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:24,007-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:47:24,008-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:47:24
+2020-06-28 21:47:24,062-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:47:24
+2020-06-28 21:47:24,063-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:47:24,064-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:47:24,621-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:47:24,623-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:47:24
+2020-06-28 21:47:24,658-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:47:24
+2020-06-28 21:47:24,658-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:47:24,659-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:47:24,804-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:47:24,899-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:24,910-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:25,008-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:47:25,009-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:47:25
+2020-06-28 21:47:25,047-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:47:25
+2020-06-28 21:47:25,048-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:47:25,048-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:47:25,467-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:47:25,468-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:47:25
+2020-06-28 21:47:25,495-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:47:25
+2020-06-28 21:47:25,496-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:47:25,496-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:47:25,661-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:47:25,793-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:25,804-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:25,959-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:47:25,960-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:47:25
+2020-06-28 21:47:25,995-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:47:25
+2020-06-28 21:47:25,995-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:47:25,996-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:47:26,442-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:47:26,443-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:47:26
+2020-06-28 21:47:26,473-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:47:26
+2020-06-28 21:47:26,474-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:47:26,474-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:47:26,611-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:47:26,757-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:26,769-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:26,862-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-06-28 21:47:26,863-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:47:26
+2020-06-28 21:47:26,897-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:47:26
+2020-06-28 21:47:26,899-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:47:26,900-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-06-28 21:47:27,456-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:47:27,457-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:47:27
+2020-06-28 21:47:27,490-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:47:27
+2020-06-28 21:47:27,490-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:47:27,491-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:47:27,644-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:47:27,782-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:27,794-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:27,881-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-06-28 21:47:27,882-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:47:27
+2020-06-28 21:47:28,437-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:47:28
+2020-06-28 21:47:28,438-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 21:47:28,438-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-06-28 21:47:28,887-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 21:47:28,888-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 21:47:28
+2020-06-28 21:47:28,916-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 21:47:28
+2020-06-28 21:47:28,917-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 21:47:28,918-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 21:47:29,061-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 21:47:29,215-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:29,227-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 21:47:33,244-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:52:39,024-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:52:47,740-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:52:50,744-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:53:01,839-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 21:53:04,843-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 21:53:12,826-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 22:05:28,972-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 22:05:34,039-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 22:05:34,055-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 22:05:34
+2020-06-28 22:05:34,146-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 22:05:34
+2020-06-28 22:05:34,147-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 22:05:34,148-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 22:05:34,388-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 22:05:34,573-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 22:05:34,595-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 22:05:37,801-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 22:12:16,708-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 22:12:23,107-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 22:12:23,114-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 22:12:23
+2020-06-28 22:12:23,200-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 22:12:23
+2020-06-28 22:12:23,208-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 22:12:23,209-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 22:12:23,407-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 22:12:23,582-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 22:12:23,601-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 22:12:26,526-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 22:13:27,287-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 22:13:32,564-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 22:13:32,576-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 22:13:32
+2020-06-28 22:13:32,692-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 22:13:32
+2020-06-28 22:13:32,693-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-06-28 22:13:32,694-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 22:13:32,911-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 22:13:33,174-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 22:13:33,199-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 22:13:36,496-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-06-28 22:15:13,482-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-06-28 22:15:18,941-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-06-28 22:15:18,948-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-06-28 22:15:18
+2020-06-28 22:15:19,037-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-06-28 22:15:19
+2020-06-28 22:15:19,040-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-06-28 22:15:19,042-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-06-28 22:15:19,302-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-06-28 22:15:19,479-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 22:15:19,505-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-06-28 22:15:22,627-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 16:01:58,265-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 16:02:04,147-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:02:04,150-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:02:04
+2020-07-01 16:02:04,255-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:02:04
+2020-07-01 16:02:04,258-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:02:04,259-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:02:04,553-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:02:04,786-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:02:04,802-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:02:07,799-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 16:03:40,675-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 16:03:45,845-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:03:45,858-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:03:45
+2020-07-01 16:03:45,973-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:03:45
+2020-07-01 16:03:45,974-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:03:45,975-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:03:46,188-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:03:46,385-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:03:46,411-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:03:49,588-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 16:04:19,100-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 16:04:24,110-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:04:24,121-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:04:24
+2020-07-01 16:04:24,192-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:04:24
+2020-07-01 16:04:24,193-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:04:24,194-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:04:24,428-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:04:24,625-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:04:24,649-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:04:27,398-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 16:05:25,619-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 16:05:31,139-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:05:31,157-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:05:31
+2020-07-01 16:05:31,303-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:05:31
+2020-07-01 16:05:31,303-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:05:31,304-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:05:31,616-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:05:31,835-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:05:31,871-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:05:36,770-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 16:10:08,834-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 16:10:13,723-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:10:13,735-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:10:13
+2020-07-01 16:10:13,819-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:10:13
+2020-07-01 16:10:13,820-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:10:13,821-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:10:13,946-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:10:14,192-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:14,214-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:14,321-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 16:10:14,322-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:10:14
+2020-07-01 16:10:14,376-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:10:14
+2020-07-01 16:10:14,379-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:10:14,380-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 16:10:15,019-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:10:15,020-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:10:15
+2020-07-01 16:10:15,049-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:10:15
+2020-07-01 16:10:15,050-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:10:15,050-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:10:15,249-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:10:15,357-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:15,368-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:15,456-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 16:10:15,457-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:10:15
+2020-07-01 16:10:15,518-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:10:15
+2020-07-01 16:10:15,519-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:10:15,520-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 16:10:15,881-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:10:15,884-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:10:15
+2020-07-01 16:10:15,908-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:10:15
+2020-07-01 16:10:15,909-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:10:15,910-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:10:16,086-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:10:16,262-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:16,275-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:16,415-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 16:10:16,418-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:10:16
+2020-07-01 16:10:16,459-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:10:16
+2020-07-01 16:10:16,463-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:10:16,466-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 16:10:16,984-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:10:16,985-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:10:16
+2020-07-01 16:10:17,018-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:10:17
+2020-07-01 16:10:17,019-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 16:10:17,020-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:10:17,193-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:10:17,366-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:17,376-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:17,544-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 16:10:17,548-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:10:17
+2020-07-01 16:10:17,594-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:10:17
+2020-07-01 16:10:17,597-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:10:17,598-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 16:10:18,155-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:10:18,156-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:10:18
+2020-07-01 16:10:18,181-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:10:18
+2020-07-01 16:10:18,182-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:10:18,184-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:10:18,410-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:10:18,582-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:18,591-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:18,710-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-07-01 16:10:18,712-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:10:18
+2020-07-01 16:10:19,266-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:10:19
+2020-07-01 16:10:19,266-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 16:10:19,267-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-07-01 16:10:19,748-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:10:19,749-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:10:19
+2020-07-01 16:10:19,778-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:10:19
+2020-07-01 16:10:19,779-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:10:19,780-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:10:19,957-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:10:20,115-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:20,125-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:10:23,805-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 16:15:53,370-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 16:16:44,008-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 16:16:49,413-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:16:49,420-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:16:49
+2020-07-01 16:16:49,520-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:16:49
+2020-07-01 16:16:49,521-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:16:49,522-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:16:49,644-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:16:49,867-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:49,906-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:50,049-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 16:16:50,050-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:16:50
+2020-07-01 16:16:50,106-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:16:50
+2020-07-01 16:16:50,107-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:16:50,108-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 16:16:50,762-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:16:50,765-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:16:50
+2020-07-01 16:16:50,794-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:16:50
+2020-07-01 16:16:50,795-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:16:50,796-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:16:50,952-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:16:51,066-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:51,077-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:51,167-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 16:16:51,168-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:16:51
+2020-07-01 16:16:51,232-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:16:51
+2020-07-01 16:16:51,232-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:16:51,234-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 16:16:51,748-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:16:51,752-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:16:51
+2020-07-01 16:16:51,787-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:16:51
+2020-07-01 16:16:51,788-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:16:51,788-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:16:51,957-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:16:52,113-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:52,125-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:52,272-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 16:16:52,280-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:16:52
+2020-07-01 16:16:52,315-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:16:52
+2020-07-01 16:16:52,317-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:16:52,318-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 16:16:52,960-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:16:52,963-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:16:52
+2020-07-01 16:16:53,001-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:16:53
+2020-07-01 16:16:53,002-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 16:16:53,002-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:16:53,170-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:16:53,319-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:53,333-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:53,472-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 16:16:53,481-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:16:53
+2020-07-01 16:16:53,520-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:16:53
+2020-07-01 16:16:53,522-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:16:53,523-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 16:16:54,093-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:16:54,095-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:16:54
+2020-07-01 16:16:54,129-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:16:54
+2020-07-01 16:16:54,130-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:16:54,132-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:16:54,336-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:16:54,495-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:54,510-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:54,655-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-07-01 16:16:54,657-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:16:54
+2020-07-01 16:16:55,217-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:16:55
+2020-07-01 16:16:55,218-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 16:16:55,219-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-07-01 16:16:55,804-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:16:55,805-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:16:55
+2020-07-01 16:16:55,836-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:16:55
+2020-07-01 16:16:55,838-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:16:55,839-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:16:56,010-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:16:56,169-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:56,184-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:16:59,159-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 16:17:10,555-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 16:32:16,606-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 16:32:22,123-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 16:32:22,131-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 16:32:22
+2020-07-01 16:32:22,206-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 16:32:22
+2020-07-01 16:32:22,207-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 16:32:22,208-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 16:32:22,382-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 16:32:22,655-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:32:22,678-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 16:32:27,003-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 21:45:43,434-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 21:45:52,687-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:45:52,694-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:45:52
+2020-07-01 21:45:52,857-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:45:52
+2020-07-01 21:45:52,858-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:45:52,860-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:45:53,171-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:45:54,318-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:45:54,357-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:45:54,618-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 21:45:54,621-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:45:54
+2020-07-01 21:45:54,833-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:45:54
+2020-07-01 21:45:54,834-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:45:54,835-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 21:45:56,579-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:45:56,584-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:45:56
+2020-07-01 21:45:56,659-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:45:56
+2020-07-01 21:45:56,668-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:45:56,670-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:45:57,205-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:45:57,422-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:45:57,494-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:45:57,772-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 21:45:57,782-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:45:57
+2020-07-01 21:45:57,947-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:45:57
+2020-07-01 21:45:57,954-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:45:57,964-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 21:45:59,274-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:45:59,285-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:45:59
+2020-07-01 21:45:59,453-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:45:59
+2020-07-01 21:45:59,468-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:45:59,470-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:46:00,223-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:46:00,755-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:46:00,776-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:46:00,923-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 21:46:00,932-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:46:00
+2020-07-01 21:46:01,019-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:46:01
+2020-07-01 21:46:01,022-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 21:46:01,023-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 21:46:02,143-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:46:02,153-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:46:02
+2020-07-01 21:46:02,220-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:46:02
+2020-07-01 21:46:02,222-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:46:02,223-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:46:02,737-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:46:03,275-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:46:03,304-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:46:03,458-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 21:46:03,472-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:46:03
+2020-07-01 21:46:03,617-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:46:03
+2020-07-01 21:46:03,621-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:46:03,642-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 21:46:04,859-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:46:04,870-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:46:04
+2020-07-01 21:46:04,919-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:46:04
+2020-07-01 21:46:04,922-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:46:04,923-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:46:05,490-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:46:06,034-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:46:06,116-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:46:06,286-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-07-01 21:46:06,287-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:46:06
+2020-07-01 21:46:06,950-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:46:06
+2020-07-01 21:46:06,957-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:46:06,958-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-07-01 21:46:07,963-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:46:07,967-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:46:07
+2020-07-01 21:46:08,026-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:46:08
+2020-07-01 21:46:08,035-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 21:46:08,036-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:46:08,539-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:46:08,915-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:46:08,954-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:46:13,402-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 21:49:13,094-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 21:49:19,239-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:49:19,263-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:49:19
+2020-07-01 21:49:19,351-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:49:19
+2020-07-01 21:49:19,352-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:49:19,353-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:49:19,889-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:49:20,553-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:49:20,586-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:49:24,904-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 21:51:24,802-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 21:51:30,414-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:51:30,433-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:51:30
+2020-07-01 21:51:30,643-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:51:30
+2020-07-01 21:51:30,644-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:51:30,645-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:51:30,830-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:51:31,366-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:31,401-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:31,587-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 21:51:31,589-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:51:31
+2020-07-01 21:51:31,688-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:51:31
+2020-07-01 21:51:31,689-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:51:31,694-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 21:51:32,706-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:51:32,708-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:51:32
+2020-07-01 21:51:32,759-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:51:32
+2020-07-01 21:51:32,764-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:51:32,768-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:51:33,214-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:51:33,403-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:33,421-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:33,588-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 21:51:33,590-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:51:33
+2020-07-01 21:51:33,684-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:51:33
+2020-07-01 21:51:33,686-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:51:33,692-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 21:51:34,713-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:51:34,719-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:51:34
+2020-07-01 21:51:34,772-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:51:34
+2020-07-01 21:51:34,775-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:51:34,780-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:51:35,369-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:51:35,838-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:35,862-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:36,066-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 21:51:36,079-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:51:36
+2020-07-01 21:51:36,264-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:51:36
+2020-07-01 21:51:36,265-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:51:36,267-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 21:51:37,514-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:51:37,517-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:51:37
+2020-07-01 21:51:37,569-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:51:37
+2020-07-01 21:51:37,572-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:51:37,575-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:51:37,969-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:51:38,317-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:38,337-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:38,554-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 21:51:38,555-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:51:38
+2020-07-01 21:51:38,652-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:51:38
+2020-07-01 21:51:38,653-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:51:38,654-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 21:51:39,701-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:51:39,703-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:51:39
+2020-07-01 21:51:39,752-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:51:39
+2020-07-01 21:51:39,753-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:51:39,753-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:51:40,168-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:51:40,586-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:40,604-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:40,770-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-07-01 21:51:40,772-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:51:40
+2020-07-01 21:51:40,904-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:51:40
+2020-07-01 21:51:40,910-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:51:40,924-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-07-01 21:51:42,111-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 21:51:42,116-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 21:51:42
+2020-07-01 21:51:42,187-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 21:51:42
+2020-07-01 21:51:42,188-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 21:51:42,191-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 21:51:42,600-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 21:51:42,924-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:42,955-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 21:51:48,679-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 22:11:44,274-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 22:11:49,736-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:11:49,746-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:11:49
+2020-07-01 22:11:49,815-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:11:49
+2020-07-01 22:11:49,816-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:11:49,817-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:11:49,932-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:11:50,119-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:50,137-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:50,281-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:11:50,283-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:11:50
+2020-07-01 22:11:50,326-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:11:50
+2020-07-01 22:11:50,328-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:11:50,329-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:11:50,837-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:11:50,839-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:11:50
+2020-07-01 22:11:50,876-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:11:50
+2020-07-01 22:11:50,877-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:11:50,877-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:11:51,053-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:11:51,143-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:51,153-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:51,249-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:11:51,250-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:11:51
+2020-07-01 22:11:51,291-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:11:51
+2020-07-01 22:11:51,295-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:11:51,322-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:11:51,938-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:11:51,939-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:11:51
+2020-07-01 22:11:51,964-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:11:51
+2020-07-01 22:11:51,965-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:11:51,966-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:11:52,100-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:11:52,227-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:52,236-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:52,352-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:11:52,354-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:11:52
+2020-07-01 22:11:52,383-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:11:52
+2020-07-01 22:11:52,384-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:11:52,386-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:11:52,870-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:11:52,871-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:11:52
+2020-07-01 22:11:52,899-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:11:52
+2020-07-01 22:11:52,900-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:11:52,901-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:11:53,031-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:11:53,165-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:53,176-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:53,300-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:11:53,301-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:11:53
+2020-07-01 22:11:53,334-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:11:53
+2020-07-01 22:11:53,335-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:11:53,336-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:11:53,986-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:11:53,988-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:11:53
+2020-07-01 22:11:54,019-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:11:54
+2020-07-01 22:11:54,020-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 22:11:54,021-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:11:54,181-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:11:54,313-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:54,324-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:54,416-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-07-01 22:11:54,418-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:11:54
+2020-07-01 22:11:54,969-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:11:54
+2020-07-01 22:11:54,970-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:11:54,971-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-07-01 22:11:55,375-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:11:55,377-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:11:55
+2020-07-01 22:11:55,400-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:11:55
+2020-07-01 22:11:55,401-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:11:55,402-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:11:55,527-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:11:55,663-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:55,676-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:11:59,567-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 22:16:08,210-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 22:16:15,237-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:16:15,246-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:16:15
+2020-07-01 22:16:15,317-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:16:15
+2020-07-01 22:16:15,318-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:16:15,318-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:16:15,421-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:16:15,620-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:15,644-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:15,766-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:16:15,767-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:16:15
+2020-07-01 22:16:15,817-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:16:15
+2020-07-01 22:16:15,819-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:16:15,820-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:16:16,393-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:16:16,407-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:16:16
+2020-07-01 22:16:16,444-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:16:16
+2020-07-01 22:16:16,446-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:16:16,448-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:16:16,613-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:16:16,706-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:16,718-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:16,812-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:16:16,813-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:16:16
+2020-07-01 22:16:16,847-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:16:16
+2020-07-01 22:16:16,848-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:16:16,850-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:16:17,472-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:16:17,474-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:16:17
+2020-07-01 22:16:17,504-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:16:17
+2020-07-01 22:16:17,507-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:16:17,509-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:16:17,664-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:16:17,807-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:17,818-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:17,945-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:16:17,947-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:16:17
+2020-07-01 22:16:17,978-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:16:17
+2020-07-01 22:16:17,980-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:16:17,981-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:16:18,451-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:16:18,453-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:16:18
+2020-07-01 22:16:18,483-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:16:18
+2020-07-01 22:16:18,484-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:16:18,485-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:16:18,635-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:16:18,789-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:18,813-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:18,985-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:16:18,988-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:16:18
+2020-07-01 22:16:19,030-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:16:19
+2020-07-01 22:16:19,032-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 22:16:19,033-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:16:19,448-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:16:19,449-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:16:19
+2020-07-01 22:16:19,478-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:16:19
+2020-07-01 22:16:19,479-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:16:19,480-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:16:19,613-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:16:19,750-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:19,762-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:19,871-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-07-01 22:16:19,877-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:16:19
+2020-07-01 22:16:20,494-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:16:20
+2020-07-01 22:16:20,499-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 22:16:20,501-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-07-01 22:16:21,116-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:16:21,128-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:16:21
+2020-07-01 22:16:21,168-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:16:21
+2020-07-01 22:16:21,169-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:16:21,177-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:16:21,387-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:16:21,546-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:21,563-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:16:24,379-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 22:21:28,495-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 22:21:33,368-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:21:33,379-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:21:33
+2020-07-01 22:21:33,485-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:21:33
+2020-07-01 22:21:33,487-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:21:33,488-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:21:33,617-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:21:33,811-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:33,835-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:34,005-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:21:34,007-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:21:34
+2020-07-01 22:21:34,058-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:21:34
+2020-07-01 22:21:34,059-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:21:34,060-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:21:34,670-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:21:34,672-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:21:34
+2020-07-01 22:21:34,700-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:21:34
+2020-07-01 22:21:34,701-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:21:34,702-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:21:34,849-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:21:34,941-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:34,953-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:35,041-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:21:35,043-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:21:35
+2020-07-01 22:21:35,083-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:21:35
+2020-07-01 22:21:35,084-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:21:35,085-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:21:35,590-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:21:35,592-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:21:35
+2020-07-01 22:21:35,627-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:21:35
+2020-07-01 22:21:35,628-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:21:35,629-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:21:35,818-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:21:36,001-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:36,019-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:36,162-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:21:36,164-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:21:36
+2020-07-01 22:21:36,202-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:21:36
+2020-07-01 22:21:36,206-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:21:36,209-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:21:36,660-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:21:36,661-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:21:36
+2020-07-01 22:21:36,687-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:21:36
+2020-07-01 22:21:36,689-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:21:36,690-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:21:36,854-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:21:37,020-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:37,035-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:37,153-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:21:37,154-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:21:37
+2020-07-01 22:21:37,181-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:21:37
+2020-07-01 22:21:37,183-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:21:37,184-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:21:37,792-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:21:37,793-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:21:37
+2020-07-01 22:21:37,822-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:21:37
+2020-07-01 22:21:37,824-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:21:37,825-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:21:38,003-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:21:38,213-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:38,222-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:38,345-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-07-01 22:21:38,347-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:21:38
+2020-07-01 22:21:38,907-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:21:38
+2020-07-01 22:21:38,909-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:21:38,909-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-07-01 22:21:39,550-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:21:39,551-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:21:39
+2020-07-01 22:21:39,585-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:21:39
+2020-07-01 22:21:39,586-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:21:39,586-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:21:39,797-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:21:40,040-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:40,067-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:21:44,300-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 22:23:21,211-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 22:23:25,963-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:23:25,970-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:23:25
+2020-07-01 22:23:26,037-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:23:26
+2020-07-01 22:23:26,039-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 22:23:26,040-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:23:26,156-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:23:26,389-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:26,411-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:26,553-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:23:26,558-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:23:26
+2020-07-01 22:23:26,615-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:23:26
+2020-07-01 22:23:26,616-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:23:26,617-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:23:27,151-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:23:27,152-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:23:27
+2020-07-01 22:23:27,180-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:23:27
+2020-07-01 22:23:27,182-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:23:27,184-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:23:27,367-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:23:27,457-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:27,475-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:27,559-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:23:27,561-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:23:27
+2020-07-01 22:23:27,596-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:23:27
+2020-07-01 22:23:27,603-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:23:27,608-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:23:28,125-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:23:28,126-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:23:28
+2020-07-01 22:23:28,149-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:23:28
+2020-07-01 22:23:28,150-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:23:28,151-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:23:28,334-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:23:28,490-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:28,501-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:28,701-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:23:28,703-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:23:28
+2020-07-01 22:23:28,781-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:23:28
+2020-07-01 22:23:28,782-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:23:28,783-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:23:29,277-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:23:29,279-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:23:29
+2020-07-01 22:23:29,303-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:23:29
+2020-07-01 22:23:29,305-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:23:29,307-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:23:29,464-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:23:29,609-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:29,618-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:29,719-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:23:29,722-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:23:29
+2020-07-01 22:23:29,760-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:23:29
+2020-07-01 22:23:29,761-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:23:29,763-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:23:30,199-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:23:30,201-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:23:30
+2020-07-01 22:23:30,229-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:23:30
+2020-07-01 22:23:30,230-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:23:30,231-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:23:30,394-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:23:30,534-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:30,545-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:30,650-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-07-01 22:23:30,653-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:23:30
+2020-07-01 22:23:31,204-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:23:31
+2020-07-01 22:23:31,205-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 22:23:31,206-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-07-01 22:23:31,696-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:23:31,697-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:23:31
+2020-07-01 22:23:31,720-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:23:31
+2020-07-01 22:23:31,722-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:23:31,724-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:23:31,899-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:23:32,054-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:32,066-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:23:34,989-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 22:51:32,128-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 22:51:37,225-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:51:37,239-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:51:37
+2020-07-01 22:51:37,302-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:51:37
+2020-07-01 22:51:37,303-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:51:37,304-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:51:37,410-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:51:37,603-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:37,621-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:37,755-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:51:37,756-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:51:37
+2020-07-01 22:51:37,796-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:51:37
+2020-07-01 22:51:37,798-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:51:37,799-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:51:38,601-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:51:38,602-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:51:38
+2020-07-01 22:51:38,626-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:51:38
+2020-07-01 22:51:38,628-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:51:38,629-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:51:38,783-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:51:38,875-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:38,884-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:38,989-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:51:38,990-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:51:38
+2020-07-01 22:51:39,021-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:51:39
+2020-07-01 22:51:39,022-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 22:51:39,023-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:51:39,667-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:51:39,668-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:51:39
+2020-07-01 22:51:39,690-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:51:39
+2020-07-01 22:51:39,691-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:51:39,692-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:51:39,853-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:51:39,996-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:40,006-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:40,169-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:51:40,170-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:51:40
+2020-07-01 22:51:40,206-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:51:40
+2020-07-01 22:51:40,207-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:51:40,208-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:51:40,896-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:51:40,898-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:51:40
+2020-07-01 22:51:40,922-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:51:40
+2020-07-01 22:51:40,923-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:51:40,924-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:51:41,137-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:51:41,301-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:41,316-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:41,435-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:51:41,441-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:51:41
+2020-07-01 22:51:41,471-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:51:41
+2020-07-01 22:51:41,472-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:51:41,474-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:51:42,084-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:51:42,085-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:51:42
+2020-07-01 22:51:42,111-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:51:42
+2020-07-01 22:51:42,113-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:51:42,114-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:51:42,279-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:51:42,434-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:42,443-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:42,567-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-07-01 22:51:42,568-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:51:42
+2020-07-01 22:51:43,121-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:51:43
+2020-07-01 22:51:43,122-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 22:51:43,123-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-07-01 22:51:43,577-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:51:43,578-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:51:43
+2020-07-01 22:51:43,607-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:51:43
+2020-07-01 22:51:43,608-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:51:43,609-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:51:43,784-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:51:43,926-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:43,938-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:51:47,433-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！
+2020-07-01 22:54:08,806-INFO-get_my_log.py-WEB自动化-日志信息：进入测试......
+2020-07-01 22:54:14,250-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:54:14,258-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:54:14
+2020-07-01 22:54:14,344-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:54:14
+2020-07-01 22:54:14,348-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:54:14,350-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:54:14,510-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:54:14,718-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:14,740-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:14,889-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:54:14,890-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:54:14
+2020-07-01 22:54:14,954-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:54:14
+2020-07-01 22:54:14,955-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:54:14,956-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:54:15,539-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:54:15,540-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:54:15
+2020-07-01 22:54:15,573-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:54:15
+2020-07-01 22:54:15,574-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:54:15,575-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:54:15,757-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:54:15,867-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:15,881-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:15,992-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:54:15,996-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:54:15
+2020-07-01 22:54:16,059-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:54:16
+2020-07-01 22:54:16,064-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:1秒
+2020-07-01 22:54:16,070-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:54:16,817-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:54:16,818-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:54:16
+2020-07-01 22:54:16,857-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:54:16
+2020-07-01 22:54:16,858-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:54:16,867-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:54:17,192-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:54:17,428-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:17,473-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:17,608-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:54:17,610-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:54:17
+2020-07-01 22:54:17,707-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:54:17
+2020-07-01 22:54:17,709-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:54:17,718-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:54:18,274-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:54:18,276-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:54:18
+2020-07-01 22:54:18,324-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:54:18
+2020-07-01 22:54:18,325-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:54:18,326-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:54:18,519-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:54:18,676-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:18,689-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:18,820-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="form-error-info"]')可见
+2020-07-01 22:54:18,824-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:54:18
+2020-07-01 22:54:18,867-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:54:18
+2020-07-01 22:54:18,868-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:54:18,870-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="form-error-info"]')
+2020-07-01 22:54:19,458-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:54:19,460-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:54:19
+2020-07-01 22:54:19,508-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:54:19
+2020-07-01 22:54:19,509-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:54:19,511-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:54:19,758-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:54:19,923-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:19,938-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_异常登录02函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:20,056-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@class="layui-layer-content"]')可见
+2020-07-01 22:54:20,057-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:54:20
+2020-07-01 22:54:20,656-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:54:20
+2020-07-01 22:54:20,657-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:54:20,658-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="layui-layer-content"]')
+2020-07-01 22:54:21,124-INFO-get_my_log.py-WEB自动化-日志信息：等待元素('xpath', '//*[@name="phone"]')可见
+2020-07-01 22:54:21,125-INFO-get_my_log.py-WEB自动化-日志信息：开始等待时间为：2020-07-01 22:54:21
+2020-07-01 22:54:21,154-INFO-get_my_log.py-WEB自动化-日志信息：结束等待时间为：2020-07-01 22:54:21
+2020-07-01 22:54:21,155-INFO-get_my_log.py-WEB自动化-日志信息：等待时长为:0秒
+2020-07-01 22:54:21,156-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="phone"]')
+2020-07-01 22:54:21,319-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@name="password"]')
+2020-07-01 22:54:21,476-INFO-get_my_log.py-WEB自动化-日志信息：查找元素：('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:21,488-INFO-get_my_log.py-WEB自动化-日志信息：登录模块_正常登录_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+2020-07-01 22:54:24,819-INFO-get_my_log.py-WEB自动化-日志信息：测试结束！！！

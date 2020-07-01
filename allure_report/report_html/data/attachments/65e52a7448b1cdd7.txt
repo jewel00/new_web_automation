@@ -1,0 +1,14 @@
+[32mINFO    [0m WEB自动化:get_my_log.py:36 进入测试......
+[32mINFO    [0m WEB自动化:get_my_log.py:36 等待元素('xpath', '//*[@name="phone"]')可见
+[32mINFO    [0m WEB自动化:get_my_log.py:36 开始等待时间为：2020-07-01 22:54:14
+[32mINFO    [0m WEB自动化:get_my_log.py:36 结束等待时间为：2020-07-01 22:54:14
+[32mINFO    [0m WEB自动化:get_my_log.py:36 等待时长为:0秒
+[32mINFO    [0m WEB自动化:get_my_log.py:36 查找元素：('xpath', '//*[@name="phone"]')
+[32mINFO    [0m WEB自动化:get_my_log.py:36 查找元素：('xpath', '//*[@name="password"]')
+[32mINFO    [0m WEB自动化:get_my_log.py:36 查找元素：('xpath', '//*[@class="btn btn-special"]')
+[32mINFO    [0m WEB自动化:get_my_log.py:36 登录模块_异常登录01函数_ 点击元素 ('xpath', '//*[@class="btn btn-special"]')
+[32mINFO    [0m WEB自动化:get_my_log.py:36 等待元素('xpath', '//*[@class="form-error-info"]')可见
+[32mINFO    [0m WEB自动化:get_my_log.py:36 开始等待时间为：2020-07-01 22:54:14
+[32mINFO    [0m WEB自动化:get_my_log.py:36 结束等待时间为：2020-07-01 22:54:14
+[32mINFO    [0m WEB自动化:get_my_log.py:36 等待时长为:0秒
+[32mINFO    [0m WEB自动化:get_my_log.py:36 查找元素：('xpath', '//*[@class="form-error-info"]')

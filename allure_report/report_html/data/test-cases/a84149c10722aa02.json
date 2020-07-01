@@ -1,0 +1,138 @@
+{
+  "uid" : "a84149c10722aa02",
+  "name" : "test_normal_login",
+  "fullName" : "TestCases.test_loginTestCases_pytest.Test_LoginCases#test_normal_login",
+  "historyId" : "5ab98d282b6de3bfd5ba0dbd36ec4e5f",
+  "time" : {
+    "start" : 1593615261123,
+    "stop" : 1593615261639,
+    "duration" : 516
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "refresh_windons",
+    "time" : {
+      "start" : 1593615261123,
+      "stop" : 1593615261123,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "access_web",
+    "time" : {
+      "start" : 1593615248805,
+      "stop" : 1593615254242,
+      "duration" : 5437
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4b86d054f2361574",
+      "name" : "log",
+      "source" : "4b86d054f2361574.txt",
+      "type" : "text/plain",
+      "size" : 850
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "refresh_windons::0",
+    "time" : {
+      "start" : 1593615261640,
+      "stop" : 1593615262073,
+      "duration" : 433
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "access_web::0",
+    "time" : {
+      "start" : 1593615262074,
+      "stop" : 1593615264821,
+      "duration" : 2747
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('refresh_windons')"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_loginTestCases_pytest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_LoginCases"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-IIQKILV"
+  }, {
+    "name" : "thread",
+    "value" : "30976-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_loginTestCases_pytest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "smoke", "@pytest.mark.usefixtures('refresh_windons')" ]
+  },
+  "source" : "a84149c10722aa02.json",
+  "parameterValues" : [ ]
+}

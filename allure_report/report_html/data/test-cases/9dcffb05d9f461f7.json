@@ -1,0 +1,138 @@
+{
+  "uid" : "9dcffb05d9f461f7",
+  "name" : "test_unnormal_login[logindata2]",
+  "fullName" : "TestCases.test_loginTestCases_pytest.Test_LoginCases#test_unnormal_login",
+  "historyId" : "7d04e9287f23044757d27e8f39b9fadc",
+  "time" : {
+    "start" : 1593615256817,
+    "stop" : 1593615257786,
+    "duration" : 969
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "access_web",
+    "time" : {
+      "start" : 1593615248805,
+      "stop" : 1593615254242,
+      "duration" : 5437
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "refresh_windons",
+    "time" : {
+      "start" : 1593615256814,
+      "stop" : 1593615256815,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "86f9c1159d4274aa",
+      "name" : "log",
+      "source" : "86f9c1159d4274aa.txt",
+      "type" : "text/plain",
+      "size" : 1256
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "access_web::0",
+    "time" : {
+      "start" : 1593615262074,
+      "stop" : 1593615264821,
+      "duration" : 2747
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "refresh_windons::0",
+    "time" : {
+      "start" : 1593615257787,
+      "stop" : 1593615258260,
+      "duration" : 473
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('refresh_windons')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_loginTestCases_pytest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_LoginCases"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-IIQKILV"
+  }, {
+    "name" : "thread",
+    "value" : "30976-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_loginTestCases_pytest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "logindata",
+    "value" : "{'usrname': '1893883714099', 'passwd': 'python12', 'check': '请输入正确的手机号'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('refresh_windons')" ]
+  },
+  "source" : "9dcffb05d9f461f7.json",
+  "parameterValues" : [ "{'usrname': '1893883714099', 'passwd': 'python12', 'check': '请输入正确的手机号'}" ]
+}

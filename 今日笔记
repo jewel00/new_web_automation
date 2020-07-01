@@ -1,0 +1,75 @@
+第7课时
+第95/96个视频：需要多听复盘
+PO-->PageObject：
+pageobject： 封装页面的元素定位、元素操作
+page object 模式：
+原理：
+将页面的元素定位和元素行为封装成一个page类。
+类的属性：元素的定位
+类的行为：元素的操作
+
+页面对象和测试用例分离。
+
+测试用例：
+调用所需页面对象中的行为，组成测试用例。
+
+好处：
+1、当某个页面的元素发生变化，只需要改页面对象的代码即可，测试用例不需要修改。
+2、提高代码重用率，结构清晰，维护代码更容易。
+3、测试用例发生变化，不需要或者只需要修改少数页面对象代码即可
+
+
+
+第八课时
+第97/98个视频：
+学习内容：需要多听复盘
+利用到ddt
+用到 setUpClass(cls):
+用到 tearDownClass(cls):
+这两个函数是某地类的前置和后置，当这个类开始执行时会执行这个setUpClass里面的内容，
+当类结束之后会执行tearDownClass里面的内容，和setUp/tearDown 有本质区分。
+元素定位和元素操作数据分离
+测试数据和测试用例分离
+用到 *变量（脱外套功能） 用来数据拆分
+
+
+第九课时
+99/100个视频内容：需要多听复盘
+内容主要讲投资的项目，目前没有项目可以练手，以听为主
+
+第10个课时
+101/102视频内容：需要多听复盘
+框架  封装  基类封装 basepage类
+
+第11课时
+103/104个视频内容：
+103个视频讲的是： 1、pytest安装、
+                 2、pytest测试框架，收集测试用例，测试用例执行顺序是根据在文件里面的先后顺序执行的、
+                 3、当想做冒烟回归至跑其中一些用例的时候用标记mark的方法
+
+104个视频讲的是：1、定义fixture
+
+第12课时：
+105个视频的内容：
+1、pytest代替ddt处理数据的方式
+2、安装pip install pytest-rerunfailures （重新运行失败的测试用例）
+3、安装pip install pytest-html 插件（测试报告要用到）
+    pytest可以生成多种样式的结果：
+    1）生成JunitXML格式的测试报告：命令：--junitxml=path
+    2) 生成result log 格式的测试报告：命令：--resultlog=report\log.txt
+    3) 生成Html格式的测试报告：命令：--html=report\test_one_func.html
+4、重运行机制 安装方式：pip install pytest-rerunfailures
+    命令：pytest --reruns 表示失败用例可以重新运行2次。
+    命令：pytest --reruns 2 --reruns-delay 5 表示失败的用例可以运行2次，第一次和第二次的间隔时间为5秒钟。
+    命令：pytes -m smoke 表示只运行有smoke标志的测试用例
+5、总和运用命令：
+运行带有smoke标记的 有失败的用例可以运行2次  每间隔5秒钟运行一次     生成xml的测试报告                   生成html的测试报告
+命令：pytest -m smoke --reruns 2 --reruns-delay 5 -s --junitxml=TestResults/report.xml --html=TestResults/html_report.html
+6、Jenkins持续集成
+pytest生成allure测试报告的命令参数：
+--alluredir=allure_report/raw_report
+把测试报告转成html格式：
+allure generate allure_report/raw_report -o allure_report/report_html --clean
+查看allure生成的测试报告命令:
+示例：allure serve D:\Web_automation\allure_report\report_html
+allure文档：https://docs.qameta.io/allure/
