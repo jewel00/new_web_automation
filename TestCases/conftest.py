@@ -17,8 +17,11 @@ def access_web():
     Get_MyLog().info('进入测试......')
     #测试之前，开启和浏览器之间的会话
     #前置
+    Get_MyLog().info('进入测试4......')
     global driver
+    Get_MyLog().info('进入测试2......')
     driver = webdriver.Chrome()
+    Get_MyLog().info('进入测试3......')
     driver.get(login_url)
     driver.maximize_window()
     lg = LoginPages(driver)
